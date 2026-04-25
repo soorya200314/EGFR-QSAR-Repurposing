@@ -20,6 +20,6 @@ The model screened ~2,000 clinical-stage molecules. Top hits identified include:
 *Note: The model also identified high-sugar molecules (Sucrose/Lactulose) as hits, likely due to feature overlap in polyhydroxy groups. This highlights the importance of post-prediction chemical intuition.*
 
 ## 🚀 How to Run
-1. Clone the repo: `git clone https://github.com/YOUR_USERNAME/EGFR-QSAR-Repurposing.git`
+1. Clone the repo: `git clone https://github.com/soorya200314/EGFR-QSAR-Repurposing.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the notebook in Google Colab or Jupyter.
